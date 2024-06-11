@@ -1,0 +1,113 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Fundraiser",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "fund_created_by_phone",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "status",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "fund_date_created",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Fundraiser_Members",
+      "queryScope": "COLLECTION_GROUP",
+      "fields": [
+        {
+          "fieldPath": "accepted_invite",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "phoneNo",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "created_by_phone",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Fundraiser_Members",
+      "queryScope": "COLLECTION_GROUP",
+      "fields": [
+        {
+          "fieldPath": "accepted_invite",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "phoneNo",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "fund_created_by_phone",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Fundraiser_Members",
+      "queryScope": "COLLECTION_GROUP",
+      "fields": [
+        {
+          "fieldPath": "accepted_invite",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "phoneNo",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "status",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "created_by_phone",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "P2PLoans",
+      "queryScope": "COLLECTION_GROUP",
+      "fields": [
+        {
+          "fieldPath": "borrower_phone_no",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "isApproved",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "isPaid",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "P2PLoans",
+      "queryScope": "COLLECTION_GROUP",
+      "fields": [
+        {
+          "fieldPath": "isApproved",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "lender_phone_no",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

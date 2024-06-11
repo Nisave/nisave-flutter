@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>665524602843-62ogchnjb6caoq51p4pahru9a3gse5hp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.665524602843-62ogchnjb6caoq51p4pahru9a3gse5hp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>665524602843-5o66ojaf5kptq3d26ca2fdnj3gbrifn4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAvmSPa6eDD63HZmQzn-1ld-7I55udGU1w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>665524602843</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.nisave</string>
+	<key>PROJECT_ID</key>
+	<string>nisave-7adf9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nisave-7adf9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:665524602843:ios:29a145252bbe3f2d9e89fe</string>
+	<key>DATABASE_URL</key>
+	<string>https://nisave-7adf9-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
