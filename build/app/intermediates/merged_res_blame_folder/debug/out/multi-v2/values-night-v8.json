@@ -4,7 +4,7 @@
             "outputFile": "com.example.nisave.app-mergeDebugResources-18:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/apple/flutter/nisave/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/apple/flutter/nisave-flutter/nisave-flutter/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

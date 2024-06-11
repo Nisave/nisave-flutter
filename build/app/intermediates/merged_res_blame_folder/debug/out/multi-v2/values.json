@@ -95,7 +95,24 @@
                     }
                 },
                 {
-                    "source": "/Users/apple/flutter/nisave/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/apple/.gradle/caches/transforms-3/4105637ca2d0ffd34d30b1a01003cfea/transformed/jetified-play-services-basement-18.3.0/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "0,0",
+                        "startOffsets": "243,406",
+                        "endColumns": "63,166",
+                        "endOffsets": "306,572"
+                    },
+                    "to": {
+                        "startLines": "108,125",
+                        "startColumns": "4,4",
+                        "startOffsets": "6608,8297",
+                        "endColumns": "67,166",
+                        "endOffsets": "6671,8459"
+                    }
+                },
+                {
+                    "source": "/Users/apple/flutter/nisave-flutter/nisave-flutter/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -114,24 +131,7 @@
                     }
                 },
                 {
-                    "source": "/Users/apple/.gradle/caches/transforms-3/4105637ca2d0ffd34d30b1a01003cfea/transformed/jetified-play-services-basement-18.3.0/res/values/values.xml",
-                    "from": {
-                        "startLines": "4,7",
-                        "startColumns": "0,0",
-                        "startOffsets": "243,406",
-                        "endColumns": "63,166",
-                        "endOffsets": "306,572"
-                    },
-                    "to": {
-                        "startLines": "108,125",
-                        "startColumns": "4,4",
-                        "startOffsets": "6608,8297",
-                        "endColumns": "67,166",
-                        "endOffsets": "6671,8459"
-                    }
-                },
-                {
-                    "source": "/Users/apple/flutter/nisave/build/app/generated/res/google-services/debug/values/values.xml",
+                    "source": "/Users/apple/flutter/nisave-flutter/nisave-flutter/build/app/generated/res/google-services/debug/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
